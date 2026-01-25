@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Full Stack Developer | Data Structures & Algorithm | Competitive Programming</p>
+<p align="left">Full Stack Developer | Data Structures & Algorithm | Competitive Programming |</p>
 
 ###
 
