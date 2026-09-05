@@ -162,6 +162,5 @@ I'm a Full Stack Developer and CS-AIML student passionate about building intelli
 
 | | | | |
 | :---: | :---: | :---: | :---: |
-| Data Science Orientation | <img src="YOUR_IMAGE_LINK_HERE" width="250"><br>Python for Data Science | Data Science Methodology | Tools for Data Science |
-| Databases & SQL | <img src="YOUR_IMAGE_LINK_HERE" width="250"><br>Applied Data Science | Data Analysis with Python | <img src="YOUR_IMAGE_LINK_HERE" width="250"><br>Data Visualization with Python |
-| Machine Learning with Python | <img src="YOUR_IMAGE_LINK_HERE" width="250"><br>Data Science Capstone | <img src="YOUR_IMAGE_LINK_HERE" width="250"><br>Generative A.I. | IBM Data Science |
+| <a href="New%20folder/01_google_IntroductionToAI.pdf"><img src="New%20folder/01_google_IntroductionToAI_page-0001.jpg" width="250"></a><br>Introduction to AI | <a href="New%20folder/02_google.pdf"><img src="New%20folder/02_google_page-0001.jpg" width="250"></a><br>Maximize Productivity AI Tools | <a href="New%20folder/03_google.pdf"><img src="New%20folder/03_google_page-0001.jpg" width="250"></a><br>Discover the Art of Prompting | <a href="New%20folder/04_google.pdf"><img src="New%20folder/04_google_page-0001.jpg" width="250"></a><br>Use AI Responsibly |
+| <a href="New%20folder/fullgoogle.pdf"><img src="New%20folder/fullgoogle_page-0001.jpg" width="250"></a><br>Stay Ahead of the AI Curve | <a href="New%20folder/06_google.pdf"><img src="New%20folder/06_google_page-0001.jpg" width="250"></a><br>Google AI Essentials | | |
