@@ -1,3 +1,10 @@
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/ascendpriyansh?v=1788617853623"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
 <div align="left">
   <img height="120" src="https://i.pinimg.com/1200x/2d/42/c5/2d42c56c41dbc5982075b1d2dcb8fbb9.jpg"  />
 </div>
