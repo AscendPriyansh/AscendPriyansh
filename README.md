@@ -16,7 +16,6 @@ I'm a Full Stack Developer and CS-AIML student passionate about building intelli
 
 *  **Studying:** CSE (AI & ML).
 *  **Currently Learning:** Crafting immersive 3D and interactive web experiences.
-*  **Experience:** 
 *  **Hackathons & CP:** Active competitor in global coding contests 
 *  **Goals:** To provide my absolute best to the world through clean, innovative code.
 *  **Let's Connect:** Reach me on X and LinkedIn.
