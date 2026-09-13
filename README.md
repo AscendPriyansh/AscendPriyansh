@@ -159,8 +159,18 @@ I'm a Full Stack Developer and CS-AIML student passionate about building intelli
 
   ### 🏅 Certifications & Badges
 
+  ### Certificates
+
 | | | | |
 | :---: | :---: | :---: | :---: |
 | <a href="certificates/01.pdf"><img src="certificates/01.jpg" width="250"></a><br>Introduction to AI | <a href="certificates/02.pdf"><img src="certificates/02.jpg" width="250"></a><br>Maximize Productivity AI Tools | <a href="certificates/03.pdf"><img src="certificates/03.jpg" width="250"></a><br>Discover the Art of Prompting | <a href="certificates/04.pdf"><img src="certificates/04.jpg" width="250"></a><br>Use AI Responsibly |
 | <a href="certificates/05.pdf"><img src="certificates/05.jpg" width="250"></a><br>Stay Ahead of the AI Curve | <a href="certificates/06.pdf"><img src="certificates/06.jpg" width="250"></a><br>Google AI Essentials | <a href="certificates/07.pdf"><img src="certificates/07.jpg" width="250"></a><br>Start Writing Prompts like a Pro | <a href="certificates/08.pdf"><img src="certificates/08.jpg" width="250"></a><br>Design Prompts for Everyday Work Tasks |
 | <a href="certificates/09.pdf"><img src="certificates/09.jpg" width="250"></a><br>Speed Up Data Analysis and Presentation Building | <a href="certificates/10.pdf"><img src="certificates/10.jpg" width="250"></a><br>Use AI as a Creative or Expert Partner | <a href="certificates/11.pdf"><img src="certificates/11.jpg" width="250"></a><br>Google Prompting Essentials | |
+
+### Badges
+
+| | | |
+| :---: | :---: | :---: |
+| <a href="certificates/badges/01_introductionToGenerativeAI.png"><img src="certificates/badges/01_introductionToGenerativeAI.png" width="250"></a><br>Introduction to Generative AI | <a href="certificates/badges/02_IntroductionToLLMs.png"><img src="certificates/badges/02_IntroductionToLLMs.png" width="250"></a><br>Introduction to LLMs | <a href="certificates/badges/03_PromptDesignInVertexAI.png"><img src="certificates/badges/03_PromptDesignInVertexAI.png" width="250"></a><br>Prompt Design in Vertex AI |
+| <a href="certificates/badges/04_ApplyingPrinciplesWithG.png"><img src="certificates/badges/04_ApplyingPrinciplesWithG.png" width="250"></a><br>Applying Principles with Google Cloud | <a href="certificates/badges/05_BeyondTheChatbot.png"><img src="certificates/badges/05_BeyondTheChatbot.png" width="250"></a><br>Beyond the Chatbot | <a href="certificates/badges/06_UnlockTheFoundationalConcept.png"><img src="certificates/badges/06_UnlockTheFoundationalConcept.png" width="250"></a><br>Unlock the Foundational Concepts |
+| <a href="certificates/badges/07_NavigateTheLandscape.png"><img src="certificates/badges/07_NavigateTheLandscape.png" width="250"></a><br>Navigate the Landscape | <a href="certificates/badges/08_TransformYourWork.png"><img src="certificates/badges/08_TransformYourWork.png" width="250"></a><br>Transform Your Work | <a href="certificates/badges/09_TransformYourOrganization.png"><img src="certificates/badges/09_TransformYourOrganization.png" width="250"></a><br>Transform Your Organization |
